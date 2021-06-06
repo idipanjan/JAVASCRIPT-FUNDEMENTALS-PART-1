@@ -49,4 +49,25 @@ console.log(typeof(year));  //string
 console.log(typeof null);   //object
 
 
+// let  vs const vs var
+
+let age=30;
+age=31;       //reassigning new data to a variable
+
+const birthYear=1999;  //not supposed to change
+//birthYear=2021;     this is illegal
+
+
+//var is a old way (same as let) ressigning is allowed
+var j='programmer';
+j='developer';
+
+lastname='Singhas';
+console.log(lastname);
+
+
+
+
+
+
 
