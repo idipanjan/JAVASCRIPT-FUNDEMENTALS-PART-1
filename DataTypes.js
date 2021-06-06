@@ -1,5 +1,12 @@
-//objects and data types
+//variables have objects and primitive two type of values
 /*
+let me={'name':'Dip', 'age':21};   //object data
+let myage=21;                      //primitive data
+
+*/
+
+/*
+
 premitive data type
 
 1.Numbers  //floating point numbers or normal integers (int+double all)
