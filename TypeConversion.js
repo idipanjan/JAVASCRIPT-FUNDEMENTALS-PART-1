@@ -6,7 +6,7 @@
 //String to Number
 const inputyear='2010';
 console.log(inputyear + 5);             //20105
-console.log(Number(inputyear) + 5);     //2015\
+console.log(Number(inputyear) + 5);     //2015
 
 console.log(Number('javascript'));     //NaN (undefined)
 console.log(typeof(Nan));
