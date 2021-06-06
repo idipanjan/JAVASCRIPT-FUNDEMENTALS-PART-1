@@ -56,11 +56,12 @@ console.log(typeof(year));  //string
 console.log(typeof null);   //object
 
 //boolean concept
-//1 is true
+//1-infinite is true
 // 0 is fasle
 
 let a=0;
 let b=1;
+let c=12;
 
 if (a){
     console.log("yes");
@@ -70,6 +71,14 @@ else{
 }
 
 if (b){
+    console.log("yes");
+}
+
+else{
+    console.log("No");
+}
+
+if (c){
     console.log("yes");
 }
 
