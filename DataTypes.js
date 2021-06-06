@@ -55,6 +55,28 @@ console.log(typeof(year));  //string
 //null
 console.log(typeof null);   //object
 
+//boolean concept
+//1 is true
+// 0 is fasle
+
+let a=0;
+let b=1;
+
+if (a){
+    console.log("yes");
+}
+else{
+    console.log("No");
+}
+
+if (b){
+    console.log("yes");
+}
+
+else{
+    console.log("No");
+}
+
 
 // let  vs const vs var
 
